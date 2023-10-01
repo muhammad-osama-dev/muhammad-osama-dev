@@ -28,7 +28,7 @@ I'm Muhammad, a DevOps engineer with a strong foundation in software engineering
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammad-osama-dev&repo=weather-client-api&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-📈 ## GitHub Stats
+## 📈 GitHub Stats
 
 <a href="https://github.com/muhammad-osama-dev">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-osama-dev&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
