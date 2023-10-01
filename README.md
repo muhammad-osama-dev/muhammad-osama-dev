@@ -10,9 +10,9 @@ I'm Muhammad, a DevOps engineer with a strong foundation in software engineering
 ## 📌 Pinned Repositories
 
 <br>
-<!-- <a href="https://github.com/muhammad-osama-dev/multi-environment-infrastructure-deployment">
+<a href="https://github.com/muhammad-osama-dev/multi-environment-infrastructure-deployment">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammad-osama-dev&repo=multi-environment-infrastructure-deployment&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a> -->
+</a>
 
 <br>
 
@@ -24,9 +24,9 @@ I'm Muhammad, a DevOps engineer with a strong foundation in software engineering
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammad-osama-dev&repo=crowd-funding&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<!-- <a href="https://github.com/muhammad-osama-dev/weather-client-api">
+<a href="https://github.com/muhammad-osama-dev/weather-client-api">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammad-osama-dev&repo=weather-client-api&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a> -->
+</a>
 
 <!-- GitHub Stats -- >
 
