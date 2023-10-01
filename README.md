@@ -1,4 +1,4 @@
-![Muhammad's GitHub Banner](./assets/DevOps.jpg)
+![Muhammad's GitHub Banner](./assets/DevOps1.jpg)
 
 [![Profile views](https://badges.pufler.dev/visits/mo/mo)](https://github.com/muhammad-osama-dev)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/muhammad-osama-4083a2159/)
