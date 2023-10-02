@@ -32,9 +32,9 @@ I'm Muhammad, a DevOps engineer with a strong foundation in software engineering
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammad-osama-dev&repo=queue-implementation&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/muhammad-osama-dev/java-maven-app">
+<!-- <a href="https://github.com/muhammad-osama-dev/java-maven-app">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammad-osama-dev&repo=java-maven-app&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+</a> -->
 
 ## 📈 GitHub Stats
 
