@@ -78,6 +78,9 @@ I'm Muhammad, a DevOps engineer with a strong foundation in software engineering
 ![Unit Testing](https://img.shields.io/badge/Unit%20Testing-informational?style=flat&color=4AB197)
 
 </details>
+
+<p>One big reason for a winning attitude is that you will take the necessary steps and not quit when the going gets difficult quote</p>
+
 <!--
 **muhammad-osama-dev/muhammad-osama-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
