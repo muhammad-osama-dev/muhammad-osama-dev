@@ -79,7 +79,7 @@ I'm Muhammad, a DevOps engineer with a strong foundation in software engineering
 
 </details>
 
-<p>One big reason for a winning attitude is that you will take the necessary steps and not quit when the going gets difficult quote</p>
+<p>One big reason for a winning attitude is that you will take the necessary steps and not quit when the going gets difficult </p>
 
 <!--
 **muhammad-osama-dev/muhammad-osama-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
