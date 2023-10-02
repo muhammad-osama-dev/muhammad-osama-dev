@@ -1,4 +1,4 @@
-<!-- ![Muhammad's GitHub Banner](./assets/DevOps1.jpg) -->
+<!-- ![Muhammad's GitHub Banner](./assets/DevOps1.jpg)
 
 [![Profile views](https://badges.pufler.dev/visits/mo/mo)](https://github.com/muhammad-osama-dev)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/muhammad-osama-4083a2159/)
@@ -79,7 +79,7 @@ I'm Muhammad, a DevOps engineer with a strong foundation in software engineering
 
 </details>
 
-<p>One big reason for a winning attitude is that you will take the necessary steps and not quit when the going gets difficult </p>
+<p>One big reason for a winning attitude is that you will take the necessary steps and not quit when the going gets difficult </p> -->
 
 <!--
 **muhammad-osama-dev/muhammad-osama-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -94,4 +94,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-  -->
