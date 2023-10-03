@@ -77,7 +77,6 @@
 ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&&logoColor=white&color=4AB197&logo=Windows)&nbsp;
 </br>
 </details>
----
 
 <!-- <details> -->
 ### ✅ GitHub Analytics
