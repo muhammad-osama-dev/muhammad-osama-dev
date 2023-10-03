@@ -100,7 +100,7 @@
   <b>Visitor count</b><br>
   <img src="https://profile-counter.glitch.me/muhammad-osama-dev/count.svg" />
   </br>
-      <img align="center" alt="GIF" src="https://github.com/muhammad-osama-dev/muhammad-osama-dev/blob/master/assets/code.gif?raw=true" width="750" height="520" />
+      <img align="center" alt="GIF" src="https://github.com/muhammad-osama-dev/muhammad-osama-dev/assets/giphy.gif?raw=true" width="750" height="520" />
 </p>
 
 [github]: https://github.com/muhammad-osama-dev
