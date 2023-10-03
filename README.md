@@ -62,21 +62,19 @@
 ![Bash Scripting](https://img.shields.io/badge/Bash%20Scripting-informational?style=flat&color=4AB197)
 ![AI](https://img.shields.io/badge/AI-informational?style=flat&logo=python&logoColor=white&color=4AB197)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-informational?style=flat&logo=TensorFlow&logoColor=white&color=4AB197)
-![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)&nbsp;
-![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter)&nbsp;
-
-<br>
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=style=flat&logoColor=white&color=4AB197&logo=pandas)&nbsp;
+![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&&logoColor=white&color=4AB197&logo=Jupyter)&nbsp;
 
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-informational?style=flat&color=4AB197)
 ![Version Control](https://img.shields.io/badge/Version%20Control-informational?style=flat&color=4AB197)
 ![Unit Testing](https://img.shields.io/badge/Unit%20Testing-informational?style=flat&color=4AB197)
 
-[![Visual Studio Code](https://img.shields.io/badge/-VScode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;][vscode]
-![Anaconda](https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=Anaconda)&nbsp;
-[![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;][git]
-[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;][github]
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=Ubuntu)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows)&nbsp;
+[![Visual Studio Code](https://img.shields.io/badge/-VScode-333333?style=flat&&logoColor=white&color=4AB197&logo=visual-studio-code)&nbsp;][vscode]
+![Anaconda](https://img.shields.io/badge/-Anaconda-333333?style=flat&&logoColor=white&color=4AB197&logo=Anaconda)&nbsp;
+[![Git](https://img.shields.io/badge/-Git-333333?style=flat&&logoColor=white&color=4AB197&logo=git)&nbsp;][git]
+[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&&logoColor=white&color=4AB197&logo=github)&nbsp;][github]
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&&logoColor=white&color=4AB197&logo=Ubuntu)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&&logoColor=white&color=4AB197&logo=Windows)&nbsp;
 
 ---
 
