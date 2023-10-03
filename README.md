@@ -10,7 +10,7 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 - 📈 I'm a DevOps Engineer and AI Enthusiast!
-- 💻 I am a DevOps Engineer Intern at ITI.
+- 💻 I am a DevOps Intern at ITI.
 - 🔭 Currently pursuing a course on KodeKloud [certified-kubernetes-administrator-cka](https://kodekloud.com/courses/certified-kubernetes-administrator-cka/)!
 - 🌱 I’m currently learning AWS and Preparing for Cloud Practitioner Certificate.
 - 🚀 CI/CD pipelines are exciting; I enjoy orchestrating deployments, automating testing, and ensuring smooth software delivery.
