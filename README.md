@@ -93,7 +93,7 @@
 
 <!--END_SECTION:activity-->
 
-</details>
+<!-- </details> -->
 
 ---
 <p align="center"> 
