@@ -78,8 +78,8 @@
 </br>
 ---
 
-<details>
-<summary>✅ GitHub Analytics</summary>
+<!-- <details> -->
+### ✅ GitHub Analytics
 <p align="left">
 <a href="https://github.com/muhammad-osama-dev">
   <img height="160em" src="https://github-readme-stats-git-master.manojuppala.vercel.app/api?username=muhammad-osama-dev&&show_icons=true&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
@@ -87,7 +87,7 @@
 
 </a>
 </p>
-</details>
+<!-- </details> -->
 
 <!--START_SECTION:activity-->
 
