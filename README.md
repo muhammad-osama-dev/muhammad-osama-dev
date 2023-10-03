@@ -75,7 +75,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&&logoColor=white&color=4AB197&logo=github)&nbsp;][github]
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&&logoColor=white&color=4AB197&logo=Ubuntu)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&&logoColor=white&color=4AB197&logo=Windows)&nbsp;
-
+</br>
 ---
 
 <details>
