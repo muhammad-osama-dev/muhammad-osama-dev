@@ -21,8 +21,8 @@
 ### 📌Pinned Repositories
 
 <p align="left">
-<a href="https://github.com/muhammad-osama-dev/multi-environment-infrastructure-deployment">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammad-osama-dev&repo=multi-environment-infrastructure-deployment=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
+<a href="https://github.com/muhammad-osama-dev/terraform-multi-environment-deployment">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammad-osama-dev&repo=terraform-multi-environment-deployment&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
 </a>
 <a href="https://github.com/muhammad-osama-dev/DBMS-using-bash">
   <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammad-osama-dev&repo=DBMS-using-bash&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
