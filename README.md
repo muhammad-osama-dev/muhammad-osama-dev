@@ -37,7 +37,7 @@
 
 ---
 
-### 🛠 Skill and Tools
+### 🛠 Skills and Tools
 
 
 ![DevOps-Jenkins](https://img.shields.io/badge/DevOps-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=4AB197)
