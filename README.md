@@ -21,7 +21,7 @@
 ### 📌Pinned Repositories
 
 <p align="left">
-<a href="https://github.com/muhammad-osama-dev/multi-environment-infrastructure-deployment.git">
+<a href="https://github.com/muhammad-osama-dev/multi-environment-infrastructure-deployment">
   <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammad-osama-dev&repo=multi-environment-infrastructure-deployment=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
 </a>
 <a href="https://github.com/muhammad-osama-dev/DBMS-using-bash">
@@ -82,7 +82,7 @@
 <summary>✅ GitHub Analytics</summary>
 <p align="left">
 <a href="https://github.com/muhammad-osama-dev">
-  <img height="160em" src="https://github-readme-stats-git-master.muhammad-osama-dev.vercel.app/api?username=muhammad-osama-dev&&show_icons=true&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
+  <img height="160em" src="https://github-readme-stats-git-master.manojuppala.vercel.app/api?username=muhammad-osama-dev&&show_icons=true&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-osama-dev&layout=compact&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
 
 </a>
