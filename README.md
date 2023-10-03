@@ -50,7 +50,7 @@
 ![Linux-RedHat](https://img.shields.io/badge/Linux-RedHat-informational?style=flat&logo=RedHat&logoColor=white&color=4AB197)
 ![AWS-Cloud](https://img.shields.io/badge/AWS-Cloud-informational?style=flat&logo=Cloud&logoColor=white&color=4AB197)
 ![Linux-Ubuntu](https://img.shields.io/badge/Linux-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=4AB197)
-
+---
 <details>
 <summary>More Skills</summary>
 <br>
