@@ -1,52 +1,44 @@
-<!-- ![Muhammad's GitHub Banner](./assets/DevOps1.jpg)
+## Hi there, I'm Muhammad - aka [Mo][github] <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-[![Profile views](https://badges.pufler.dev/visits/mo/mo)](https://github.com/muhammad-osama-dev)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/muhammad-osama-4083a2159/)
+<!-- [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/channel/UCX93oEN0tza6KfuAWfI61vQ) -->
+<!-- [![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@uppala0863) -->
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-osama-4083a2159/)
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/Manoj_0863?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FManoj_0863&screen_name=Manoj_0863) -->
 
-Hey there 👋
+### 👨🏻‍💻 About Me
 
-I'm Muhammad, a DevOps engineer with a strong foundation in software engineering and a passion for AI and deep learning. Proficient in DevOps tools and technologies, I optimize software processes, automate workflows, and enhance collaboration.
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-## 📌 Pinned Repositories
+- 📈 I'm a DevOps Engineer and AI Enthusiast!
+- 💻 I am a DevOps Engineer Intern at ITI.
+- 🔭 Currently pursuing a course on KodeKloud [certified-kubernetes-administrator-cka][https://kodekloud.com/courses/certified-kubernetes-administrator-cka/]!
+- 🌱 I’m currently learning AWS and Preparing for Cloud Practitioner Certificate.
+- 🚀 CI/CD pipelines are exciting; I enjoy orchestrating deployments, automating testing, and ensuring smooth software delivery.
+- ⚡ Learning something new everyday keps my dopamine levels high.
 
-<br>
-<a href="https://github.com/muhammad-osama-dev/multi-environment-infrastructure-deployment">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammad-osama-dev&repo=multi-environment-infrastructure-deployment&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+---
+
+### 📌Pinned Repositories
+
+<p align="left">
+<a href="https://github.com/muhammad-osama-dev/multi-environment-infrastructure-deployment.git">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammad-osama-dev&repo=multi-environment-infrastructure-deployment=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
 </a>
-
-<br>
-
 <a href="https://github.com/muhammad-osama-dev/DBMS-using-bash">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammad-osama-dev&repo=DBMS-using-bash&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammad-osama-dev&repo=DBMS-using-bash&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
 </a>
-
 <a href="https://github.com/muhammad-osama-dev/crowd-funding">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammad-osama-dev&repo=crowd-funding&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammad-osama-dev&repo=crowd-funding&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
 </a>
-
-<a href="https://github.com/muhammad-osama-dev/weather-client-api">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammad-osama-dev&repo=weather-client-api&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
 <a href="https://github.com/muhammad-osama-dev/java-maven-app">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammad-osama-dev&repo=java-maven-app&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammad-osama-dev&repo=java-maven-app&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
 </a>
+</p>
 
-## 📈 GitHub Stats
+---
 
-<a href="https://github.com/muhammad-osama-dev">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-osama-dev&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+### 🛠 Languages and Tools
 
-<a href="https://github.com/muhammad-osama-dev">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=muhammad-osama-dev&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Muhammad's GitHub Stats" />
-
-</a>
-
-<br>
-<br>
-
-## 💼 Skills
 
 ![DevOps-Jenkins](https://img.shields.io/badge/DevOps-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=4AB197)
 ![DevOps-CI/CD](https://img.shields.io/badge/DevOps-CI/CD-informational?style=flat&logo=github-actions&logoColor=white&color=4AB197)
@@ -70,6 +62,8 @@ I'm Muhammad, a DevOps engineer with a strong foundation in software engineering
 ![Bash Scripting](https://img.shields.io/badge/Bash%20Scripting-informational?style=flat&color=4AB197)
 ![AI](https://img.shields.io/badge/AI-informational?style=flat&logo=python&logoColor=white&color=4AB197)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-informational?style=flat&logo=TensorFlow&logoColor=white&color=4AB197)
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)&nbsp;
+![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter)&nbsp;
 
 <br>
 
@@ -77,20 +71,51 @@ I'm Muhammad, a DevOps engineer with a strong foundation in software engineering
 ![Version Control](https://img.shields.io/badge/Version%20Control-informational?style=flat&color=4AB197)
 ![Unit Testing](https://img.shields.io/badge/Unit%20Testing-informational?style=flat&color=4AB197)
 
+[![Visual Studio Code](https://img.shields.io/badge/-VScode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;][vscode]
+![Anaconda](https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=Anaconda)&nbsp;
+[![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;][git]
+[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;][github]
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=Ubuntu)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows)&nbsp;
+
+---
+
+<details>
+<summary>✅ GitHub Analytics</summary>
+<p align="left">
+<a href="https://github.com/muhammad-osama-dev">
+  <img height="160em" src="https://github-readme-stats-git-master.muhammad-osama-dev.vercel.app/api?username=muhammad-osama-dev&&show_icons=true&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-osama-dev&layout=compact&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
+
+</a>
+</p>
 </details>
 
-<p>One big reason for a winning attitude is that you will take the necessary steps and not quit when the going gets difficult </p> -->
+<!--START_SECTION:activity-->
 
-<!--
-**muhammad-osama-dev/muhammad-osama-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--END_SECTION:activity-->
 
-Here are some ideas to get you started:
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+<p align="center"> 
+  <b>Visitor count</b><br>
+  <img src="https://profile-counter.glitch.me/muhammad-osama-dev/count.svg" />
+  </br>
+      <img align="center" alt="GIF" src="https://github.com/muhammad-osama-dev/muhammad-osama-dev/blob/master/assets/code.gif?raw=true" width="750" height="520" />
+</p>
+
+[github]: https://github.com/muhammad-osama-dev
+[twitter]: https://twitter.com/Manoj_0863
+[youtube]: https://www.youtube.com/channel/UCX93oEN0tza6KfuAWfI61vQ
+[linkedin]: https://www.linkedin.com/in/manoj-uppala-1a8b33169/
+[coursera]: https://www.coursera.org/learn/data-analysis-with-python
+[vscode]: https://code.visualstudio.com/
+[python]: https://www.python.org/doc/
+[java]: https://docs.oracle.com/en/java/
+[git]: https://git-scm.com/doc
+[github]: https://github.com/
+[c++]: https://devdocs.io/cpp/
+[c]: https://devdocs.io/c/
+
+-----
