@@ -30,8 +30,8 @@
 <a href="https://github.com/muhammad-osama-dev/crowd-funding">
   <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammad-osama-dev&repo=crowd-funding&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
 </a>
-<a href="https://github.com/muhammad-osama-dev/java-maven-app">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammad-osama-dev&repo=java-maven-app&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
+<a href="https://github.com/muhammad-osama-dev/gcp-nodejs-mongodb-deployment">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammad-osama-dev&repo=gcp-nodejs-mongodb-deployment&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
 </a>
 </p>
 
